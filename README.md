@@ -47,3 +47,7 @@ News data is fetched from:
 Computer Science Engineering Student  
 
 GitHub: https://github.com/Sumit0979
+
+
+<img width="1908" height="957" alt="image" src="https://github.com/user-attachments/assets/b3f13a82-cc0e-49d0-867b-0f55a0beb7cc" />
+<img width="1901" height="956" alt="image" src="https://github.com/user-attachments/assets/e6b6e574-5b01-409d-81b8-734e78e1c56d" />
